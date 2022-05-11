@@ -1,0 +1,14 @@
+* O projeto Timer foi proposto pela Driven, como uma forma de exercitar habilidades na programação web.
+
+* Nele foram aplicados conhecimentos em:
+    - HTML
+    - CSS responsivo com flex
+    - Javascript com:
+        - DOM
+        - Objeto Math
+        - Funções
+        - Condicionais
+        - Métodos (SetItem, setInterval)
+        - Manipulação de dados no local storage do navegador
+
+* O usuário deverá selecionar uma data e, ao clicar em "Iniciar", a aplicação abrirá um timer, com contagem regressiva. Mesmo recarregando a página ou saindo dela, o navegador armazena a data e segue com o timer, até que o usuário clique em "Parar".
